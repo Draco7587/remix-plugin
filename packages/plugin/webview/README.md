@@ -1,4 +1,4 @@
-# Plugin Webview
+npm install @remixproject/engine-vscode# Plugin Webview
 
 This library provides connectors to connect a plugin to an engine that can load webview or iframes.
 ```
